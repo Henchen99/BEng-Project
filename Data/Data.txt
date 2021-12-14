@@ -1,1 +1,1 @@
-
+Household load profile data is to large to be uploaded onto Github therefore please use this link to download and view the data: https://pureportal.strath.ac.uk/en/datasets/refit-electrical-load-measurements-cleaned 
